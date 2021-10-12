@@ -6,7 +6,7 @@ $( function() {
  
 	$(".player").mb_YTPlayer();
 	
-	var endDate = "December  27, 2017 15:03:25";
+	var endDate = "October  31, 2021 24:00:00";
 	$('.countdown.simple').countdown({ date: endDate });
 	$('.countdown.styled').countdown({
 	  date: endDate,
